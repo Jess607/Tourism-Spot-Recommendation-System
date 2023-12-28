@@ -1,0 +1,24 @@
+itemId,ItemName,Category,Quality
+0,Restaurant Fake,['Gastro'],1.6473514605008064
+1,Fiction Nightclub,['Nightlf'],1.1885585163406631
+2,Random Shopping Mall,"['Shop', 'Relax']",2.948170123723333
+3,Bogus Waterpark,['Themeprk'],1.8307928937954072
+4,Unknown Nature Route,"['Nature', 'Relax']",2.782113481714015
+5,Some Sport Event,"['Sports', 'Events']",4.47636324707816
+6,Never Happened Festival,"['Events', 'Culture']",1.8365560362929618
+7,False Tavern,"['Gastro', 'Culture']",1.3652702314607472
+8,MakeBelieve Pub,"['Gastro', 'Nightlf']",1.9579963362582702
+9,Another Sport Event,"['Sports', 'Events']",2.1332091199292447
+10,Surprise Concert,"['Events', 'Culture']",1.264327164795462
+11,Museum of Fake History,['Culture'],3.2814843670625717
+12,Fake BTT Route,"['Sports', 'Nature']",1.6335593188414577
+13,Random Surfing Lessons,"['Sports', 'Nature']",4.649384256596203
+14,Fake Brands Boutique,['Shop'],3.6114813215485193
+15,Best Imaginary Restaurant,['Gastro'],2.730528524807574
+16,Bogus Spa,['Relax'],4.598458759734722
+17,Random Cultural Tour,['Culture'],4.984841930985912
+18,Nonexisting Zipline,['Sports'],1.8538227927576152
+19,Fake Klub,['Nightlf'],4.636606471700576
+20,Random Golf Lessons,['Sports'],1.4521138747369062
+21,Secret Beach,['Beach'],1.2399768659080181
+22,Fake Beach,['Beach'],4.736056417537012
